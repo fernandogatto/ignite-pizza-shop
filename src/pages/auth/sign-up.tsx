@@ -58,7 +58,7 @@ export function SignUp() {
 
       <div className="p-8">
         <Button asChild variant="outline" className="absolute right-8 top-8">
-          <Link to="/sign-up">Fazer login</Link>
+          <Link to="/sign-in">Fazer login</Link>
         </Button>
 
         <div className="flex w-[350px] flex-col justify-center gap-6">
